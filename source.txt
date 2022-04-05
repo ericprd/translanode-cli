@@ -1,0 +1,5 @@
+this is english language.   (en)
+hello, how are you? (en)
+i try this to test if it running or not. (en)
+saya adalah pemula (id)
+ini adalah bahasa indonesia (id)
